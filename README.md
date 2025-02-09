@@ -1,2 +1,2 @@
 # Models
-I post ML models here
+I post ML projects here
