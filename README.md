@@ -1,2 +1,2 @@
-# Models
-I post ML projects here
+# Beginner ML projects
+I post beginner ML projects here
